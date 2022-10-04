@@ -5,12 +5,16 @@ During my studies, I acquired the knowledge necessary for the profession of a da
 
 ## Table of contents
 - [Introduction](#introduction) 
+- [Courses](#courses)
 - [Technologies](#technologies)
 - [Portfolio Projects](#portfolio-projects)
 		- [Creating fake dataset using **python**](#creating-fake-dataset-using-python)
 		- [**EDA** of created fake dataset](#eda-of-created-fake-dataset)
 		- [**Data Analysis** and excel **dynamic dashboard**](#data-analysis-and-excel-dynamic-dashboard)
 
+- [Contact](#contact)
+## Courses
+All finished courses can be find in my [LinkedIn Profile](https://www.linkedin.com/in/se-domagala/details/certifications/)
 ## Technologies
 - Excel (xlookup, pivot tables/tables, **Power Query, Power Pivot, Data Model**, macro)
 	- Finished [Excel Skills For Business Specialization](https://www.coursera.org/specializations/excel)
@@ -40,5 +44,34 @@ In This section I will present my data analytics projects.
 **Description:** Data analysis of created fake dataset. I will present some screenshots as it is macro enabled workbook (xlsm)
 
 This is how data table looks.
+
 ![](screenshots/Data_tbl.png)
+
  Almost every column has data validation (lists) based on "lists" located in tables
+
+![](screenshots/xlookup_dvlists.png)
+
+And this is how dashboard presents. 
+
+![](screenshots/Dashboard_Revenue.png)
+
+It is dynamically linked to dataset, so if there is new data, the dashboard will be updated (Pivot charts too)
+
+This dashboard is provided with a macro, to change data source. From Revenue Data to Units Data. As You can see, Line and Map chart changes after switch
+
+![](screenshots/Dashboard_Units.png)
+
+I will present macro used in worksheet. If, for any reason you are concerned about opening this macro enabled worksheet
+
+**Refreshing pivot charts macro** 
+
+![](screenshots/Refresh_Macro.png)
+
+**Tab button macro (Revenue/Units)**
+
+![](screenshots/tab_button_macro.png)
+
+
+## Contact
+- LinkedIn [@se-domagala](https://www.linkedin.com/in/se-domagala/)
+- E-mail [se.domagala@gmail.com](se.domagala@gmail.com)
