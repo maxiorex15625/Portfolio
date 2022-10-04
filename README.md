@@ -36,7 +36,7 @@ In This section I will present my data analytics projects.
 
 **Code:** [Creating_Fake_Dataset.ipynb](https://github.com/maxiorex15625/Portfolio/blob/main/Creating_Fake_Dataset.ipynb)
 
-**Description:** I couldn't find data, that would suit my excel dashboard, so I created mine, fake dataset. 
+**Description:** I couldn't find data, that would suit my excel dashboard, so I created my, fake dataset.
 
 **Technology:** NumPy and Faker (Python)
 
