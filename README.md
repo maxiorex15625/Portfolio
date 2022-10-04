@@ -23,10 +23,12 @@ During my studies, I acquired the knowledge necessary for the profession of a da
 	- During studies During my studies, I learned SQL at an intermediate level
 
 ## Portfolio Projects
-In This section I will present my data analytics projects
+In This section I will present my data analytics projects.
 ### Creating fake dataset using python
 **Code:** [Creating_Fake_Dataset.ipynb](https://github.com/maxiorex15625/Portfolio/blob/main/Creating_Fake_Dataset.ipynb)
+
 **Description:** I couldn't find data, that would suit my excel dashboard, so I created mine, fake dataset. 
+
 **Technology:** NumPy and Faker (Python)
 
 ### EDA of created fake dataset
