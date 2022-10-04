@@ -28,7 +28,9 @@ All finished courses can be find in my [LinkedIn Profile](https://www.linkedin.c
 
 ## Portfolio Projects
 In This section I will present my data analytics projects.
+
 ### Creating fake dataset using python
+
 **Code:** [Creating_Fake_Dataset.ipynb](https://github.com/maxiorex15625/Portfolio/blob/main/Creating_Fake_Dataset.ipynb)
 
 **Description:** I couldn't find data, that would suit my excel dashboard, so I created mine, fake dataset. 
@@ -36,11 +38,15 @@ In This section I will present my data analytics projects.
 **Technology:** NumPy and Faker (Python)
 
 ### EDA of created fake dataset
+
 **Code:** [Fakedata_EDA.ipynb](https://github.com/maxiorex15625/Portfolio/blob/main/Fakedata_EDA.ipynb)
+
 **Description:** Simple EDA of dataset created in previous step.
+
 **Technology:** Pandas, NumPy, seaborn
 	
 ### Data Analysis and excel dynamic dashboard
+
 **Description:** Data analysis of created fake dataset. I will present some screenshots as it is macro enabled workbook (xlsm)
 
 This is how data table looks.
