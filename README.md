@@ -8,9 +8,12 @@ During my studies, I acquired the knowledge necessary for the profession of a da
 - [Courses](#courses)
 - [Technologies](#technologies)
 - [Portfolio Projects](#portfolio-projects)
-		- [Creating fake dataset using **python**](#creating-fake-dataset-using-python)
-		- [**EDA** of created fake dataset](#eda-of-created-fake-dataset)
-		- [**Data Analysis** and excel **dynamic dashboard**](#data-analysis-and-excel-dynamic-dashboard)
+
+	- [Creating fake dataset using **python**](#creating-fake-dataset-using-python)
+		
+	- [**EDA** of created fake dataset](#eda-of-created-fake-dataset)
+		
+	- [**Data Analysis** and excel **dynamic dashboard**](#data-analysis-and-excel-dynamic-dashboard)
 
 - [Contact](#contact)
 ## Courses
