@@ -27,7 +27,7 @@ All finished courses can be find in my [LinkedIn Profile](https://www.linkedin.c
 	- My bachelor's degree project is an artificial intelligence (Reinforcement Learning) algorithm for playing poker
 	
 - SQL (Join, subqueries, functions, read/update/delete)
-	- During studies During my studies, I learned SQL at an intermediate level
+	- During my studies, I learned SQL at an intermediate level
 
 ## Portfolio Projects
 In This section I will present my data analytics projects.
