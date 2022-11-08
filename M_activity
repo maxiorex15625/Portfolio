@@ -1,0 +1,8 @@
+let
+    Source = Csv.Document(File.Contents("\\Mac\Home\Portfolio Projects\Polar\06.03.2020\activity_level.csv"),[Delimiter=",", Columns=2, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    #"Removed Alternate Rows" = Table.AlternateRows(#"Promoted Headers",7,1,7),
+    #"Removed Top Rows" = Table.Skip(#"Removed Alternate Rows",4),
+    #"Removed Bottom Rows" = Table.RemoveLastN(#"Removed Top Rows",1)
+in
+    #"Removed Bottom Rows"
