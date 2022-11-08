@@ -64,13 +64,19 @@ This is how data table looks.
 
 And this is how dashboard presents. 
 
-![](screenshots/Dashboard_Revenue.png)
+![](screenshots/dashboard.gif)
 
 It is dynamically linked to dataset, so if there is new data, the dashboard will be updated (Pivot charts too)
 
-This dashboard is provided with a macro, to change data source. From Revenue Data to Units Data. As You can see, Line and Map chart changes after switch
+![](screenshots/dynamic_changes.gif)
 
-![](screenshots/Dashboard_Units.png)
+Here is presentation of **Dynamic KPI** 
+
+![](screenshots/Dynamic_KPI.gif)
+
+And also **Dynamic** chart with **option buttons**
+
+![](screenshots/Dynamic_chart_option_buttons.gif)
 
 I will present macro used in worksheet. If, for any reason you are concerned about opening this macro enabled worksheet
 
