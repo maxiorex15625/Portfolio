@@ -29,6 +29,8 @@ All finished courses can be find in my [LinkedIn Profile](https://www.linkedin.c
 - SQL (Join, subqueries, functions, read/update/delete)
 	- During my studies, I learned SQL at an intermediate level
 
+- Power BI (Data insight, **DAX**) 
+
 ## Portfolio Projects
 In This section I will present my data analytics projects.
 
