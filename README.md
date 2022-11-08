@@ -9,7 +9,7 @@ During my studies, I acquired the knowledge necessary for the profession of a da
 - [Technologies](#technologies)
 - [Portfolio Projects](#portfolio-projects)
 
-	- [**Scraping** Polar Flow, **Data Cleaning** and **Analysis in Power BI**](#scraping-polar-data-cleaning-analysis-in-power-bi)
+	- [**Scraping** Polar Flow, **Data Cleaning** and **Analysis in Power BI**](#scraping-polar-flow-data-cleaning-and-analysis-in-power-bi)
 	
 	- [Creating fake dataset using **python**](#creating-fake-dataset-using-python)
 		
