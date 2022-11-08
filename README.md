@@ -64,7 +64,8 @@ This is how data table looks.
 
 And this is how dashboard presents. 
 
-![](screenshots/dashboard.gif)
+![](screenshots/dashboard_photo.png)
+![](screenshots/dashboard.png)
 
 It is dynamically linked to dataset, so if there is new data, the dashboard will be updated (Pivot charts too)
 
