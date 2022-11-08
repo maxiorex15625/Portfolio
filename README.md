@@ -56,7 +56,7 @@ Steps, sleep time, calories burned etc.:
 
 Activity Level:
 
-![](screenshots/actibity.png)
+![](screenshots/activity.png)
 
 I had to add manually 4 zeroes at the beginning, but I will explain it later. 
 
