@@ -52,11 +52,11 @@ After couple minutes, here is the result:
 
 Steps, sleep time, calories burned etc.: 
 
-![](Polar_Flow_Project/screenshots/table_measures.png)
+![](polar_flow_project/screenshots/table_measures.png)
 
 Activity Level:
 
-![](Polar Flow Project/screenshots/actibity.png)
+![](Polar_Flow_Project/screenshots/actibity.png)
 
 I had to add manually 4 zeroes at the beginning, but I will explain it later. 
 
