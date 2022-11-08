@@ -52,11 +52,11 @@ After couple minutes, here is the result:
 
 Steps, sleep time, calories burned etc.: 
 
-![](polar_flow_project/screenshots/table_measures.png)
+![](screenshots/table_measures.png)
 
 Activity Level:
 
-![](Polar_Flow_Project/screenshots/actibity.png)
+![](screenshots/actibity.png)
 
 I had to add manually 4 zeroes at the beginning, but I will explain it later. 
 
@@ -68,11 +68,11 @@ As You can see, I removed alternate rows, but for what?
 
 Here is the table which I scraped.
 
-![](Polar_Flow_Project/screenshots/flow_table.png)
+![](screenshots/flow_table.png)
 
 And here is the source code of this page.
 
-![](Polar_flow_Project/screenshots/source_code.png)
+![](screenshots/source_code.png)
 
 As You can see, there is 8 div's with class which I was looking for, and the 8th is the Average of daily goal completion (remove alternate rows). This is why I had to add four zeros at the begining, beacouse my starting date was 6th day of march, which is Friday. 
 
@@ -80,23 +80,23 @@ Now when my data is cleaned, I merged it into one based on Date. For this, I cop
 
 Here is result:
 
-![](Polar_flow_Project/screenshots/merged_data.png)
+![](screenshots/merged_data.png)
 
 And here is the interesting part, **Power BI** app-like dashboard. [Dashboard](https://app.powerbi.com/groups/me/reports/9a068507-a229-4693-a2c3-d83c7cc6a79a?ctid=8fbcdc7a-dff7-4113-b007-45612ef5b74d&pbi_source=linkShare)
 
-![](Polar_flow_Project/screenshots/power_bi_dashboard.png)
+![](screenshots/power_bi_dashboard.png)
 
 I Created simple background in Power Point and saved it as SVG.
 
-![](Polar_flow_Project/screenshots/background.svg)
+![](screenshots/background.svg)
 
 All measures 
 
-![](Polar_flow_Project/screenshots/measures.png)
+![](screenshots/measures.png)
 
 Measures with: Axis Fill, Range, Target Min/Max was used for stacked bar chart. 
 
-![](Polar_flow_Project/screenshots/stacked_bar.png)
+![](screenshots/stacked_bar.png)
 
 It was a very interesting project to do, mainly because I had to get the data myself. I encountered a few difficulties (Power Automate and Flow API to name few of them) but I am happy with the result.
 
