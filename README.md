@@ -56,7 +56,7 @@ Steps, sleep time, calories burned etc.:
 
 Activity Level:
 
-![](Polar_Flow_Project/screenshots/actibity.png)
+![](Polar Flow Project/screenshots/actibity.png)
 
 I had to add manually 4 zeroes at the beginning, but I will explain it later. 
 
@@ -68,7 +68,7 @@ As You can see, I removed alternate rows, but for what?
 
 Here is the table which I scraped.
 
-![](Polar_flow_Project/screenshots/flow_table.png)
+![](Polar_Flow_Project/screenshots/flow_table.png)
 
 And here is the source code of this page.
 
